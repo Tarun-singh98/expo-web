@@ -1,0 +1,102 @@
+[
+  {
+    "contactType": "person",
+    "firstName": "Yogita",
+    "id": "1311",
+    "image": { "uri": "content://com.android.contacts/contacts/1311/photo" },
+    "imageAvailable": true,
+    "lookupKey": "672i35bb236d88a2c8e9.295r537-382A4C485A362A40.3789r1280-382A4C485A362A40",
+    "name": "Harpygal",
+    "phoneNumbers": [
+      {
+        "id": "10",
+        "isPrimary": 0,
+        "label": "mobile",
+        "number": "7017339871",
+        "type": "2"
+      },
+      {
+        "id": "5402",
+        "isPrimary": 0,
+        "label": "mobile",
+        "number": "7017339871",
+        "type": "2"
+      }
+    ]
+  },
+  {
+    "contactType": "person",
+    "firstName": "Rahul",
+    "id": "1311",
+    "image": { "uri": "content://com.android.contacts/contacts/1311/photo" },
+    "imageAvailable": true,
+    "lookupKey": "672i35bb236d88a2c8e9.295r537-382A4C485A362A40.3789r1280-382A4C485A362A40",
+    "name": "Harpygal",
+    "phoneNumbers": [
+      {
+        "id": "10",
+        "isPrimary": 0,
+        "label": "mobile",
+        "number": "7017339871",
+        "type": "2"
+      },
+      {
+        "id": "5402",
+        "isPrimary": 0,
+        "label": "mobile",
+        "number": "7017339871",
+        "type": "2"
+      }
+    ]
+  },
+  {
+    "contactType": "person",
+    "firstName": "Tarun",
+    "id": "1311",
+    "image": { "uri": "content://com.android.contacts/contacts/1311/photo" },
+    "imageAvailable": true,
+    "lookupKey": "672i35bb236d88a2c8e9.295r537-382A4C485A362A40.3789r1280-382A4C485A362A40",
+    "name": "Harpygal",
+    "phoneNumbers": [
+      {
+        "id": "10",
+        "isPrimary": 0,
+        "label": "mobile",
+        "number": "7017339871",
+        "type": "2"
+      },
+      {
+        "id": "5402",
+        "isPrimary": 0,
+        "label": "mobile",
+        "number": "7017339871",
+        "type": "2"
+      }
+    ]
+  },
+  {
+    "contactType": "person",
+    "firstName": "Akash",
+    "id": "1311",
+    "image": { "uri": "content://com.android.contacts/contacts/1311/photo" },
+    "imageAvailable": true,
+    "lookupKey": "672i35bb236d88a2c8e9.295r537-382A4C485A362A40.3789r1280-382A4C485A362A40",
+    "name": "Harpygal",
+    "phoneNumbers": [
+      {
+        "id": "10",
+        "isPrimary": 0,
+        "label": "mobile",
+        "number": "7017339871",
+        "type": "2"
+      },
+      {
+        "id": "5402",
+        "isPrimary": 0,
+        "label": "mobile",
+        "number": "7017339871",
+        "type": "2"
+      }
+    ]
+  }
+]
